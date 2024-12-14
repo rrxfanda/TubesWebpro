@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Seminar Teknologi",
+        "description": "Bergabunglah dalam seminar tentang tren teknologi terbaru yang akan diadakan minggu depan.",
+        "image_url": "https://via.placeholder.com/300",
+        "link": "#"
+    },
+    {
+        "title": "Workshop Desain Grafis",
+        "description": "Pelajari keterampilan desain grafis dan buat karya kreatif dalam workshop ini.",
+        "image_url": "https://via.placeholder.com/300",
+        "link": "#"
+    },
+    {
+        "title": "Turnamen E-sports",
+        "description": "Ayo ikuti turnamen e-sports dan menangkan hadiah menarik!",
+        "image_url": "https://via.placeholder.com/300",
+        "link": "#"
+    }
+]
